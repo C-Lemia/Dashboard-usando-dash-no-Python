@@ -11,7 +11,7 @@ app.py - Cria um dashboard interativo usando Dash para visualizar os dados finan
  
 csv_ramdom.py         # Script para gerar o arquivo CSV
 
- app.py                   # Script para criar o dashboard com Dash
+ exemplo.py                   # Script para criar o dashboard com Dash
  
 requirements.txt         # Lista de dependências do projeto
 
