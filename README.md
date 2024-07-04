@@ -1,4 +1,5 @@
 # Projeto Dash - Dashboard de Dados Financeiros
+![Descrição da Imagem](Imagens/Imagem1.png)
 
 
 Este projeto consiste em dois scripts principais:
