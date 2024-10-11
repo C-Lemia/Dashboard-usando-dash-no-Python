@@ -1,6 +1,7 @@
 # Projeto Dash - Dashboard de Dados Financeiros
 ![Descrição da Imagem](Imagens/Imagem1.png)
 
+![image](https://github.com/user-attachments/assets/6fdd1402-d7d2-43db-8f21-1aa9cfe11eed)
 
 Análise de Resultados Financeiros Mensais
 
@@ -15,6 +16,14 @@ Resultado Médio Mensal
 Variação Média Anual
 
 Além disso, os dados financeiros são organizados em uma planilha, permitindo uma visualização clara e eficiente dos resultados. 
+
+Permite ver os dados em Português BR e Inglês.
+
+![image](https://github.com/user-attachments/assets/756329c1-f999-4c82-b3a6-65a9909087c7)
+![image](https://github.com/user-attachments/assets/174d0f56-a0f3-4cfe-8d77-246c0f05bed5)
+![image](https://github.com/user-attachments/assets/12c743c6-4ba4-412f-ad69-8fcbda98bd54)
+
+
 
 ## Projeto-Dash:
  financial_data.csv  # Arquivo CSV gerado com dados financeiros aleatórios
