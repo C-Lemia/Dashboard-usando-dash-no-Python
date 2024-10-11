@@ -2,10 +2,19 @@
 ![Descrição da Imagem](Imagens/Imagem1.png)
 
 
-Este projeto consiste em dois scripts principais:
+Análise de Resultados Financeiros Mensais
 
-generate_data.py - Gera um arquivo CSV com dados financeiros aleatórios.
-app.py - Cria um dashboard interativo usando Dash para visualizar os dados financeiros.
+Este projeto oferece uma análise abrangente dos resultados financeiros mensais, destacando a evolução da receita e o nível de endividamento. Utilizando dados gerados aleatoriamente, o sistema apresenta um demonstrativo detalhado que inclui as seguintes métricas:
+
+Resultado Final do Período 
+
+Resultado Acumulado do Ano
+
+Resultado Médio Mensal
+
+Variação Média Anual
+
+Além disso, os dados financeiros são organizados em uma planilha, permitindo uma visualização clara e eficiente dos resultados. 
 
 ## Projeto-Dash:
  financial_data.csv  # Arquivo CSV gerado com dados financeiros aleatórios
